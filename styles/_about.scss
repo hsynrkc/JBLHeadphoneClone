@@ -1,0 +1,14 @@
+@import "variables";
+
+.about {
+  &-data {
+    text-align: center;
+  }
+  &-text {
+    margin: 20px 0;
+  }
+  &-img {
+    width: 280px;
+    justify-self: center;
+  }
+}
